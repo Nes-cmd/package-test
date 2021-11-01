@@ -14,12 +14,12 @@
     "require": {},
     "autoload": {
         "psr-4":{
-           "nesru\\warka\\":"src" 
-        }
+           "Nesru\\warka\\":"src" 
+        } 
     },
     "extra":{
         "laravel":{
-            "providers": "nesru\\warka\\warkaServiceProvider"
+            "providers": "Nesru\\warka\\warkaServiceProvider"
         }
     }
 }
