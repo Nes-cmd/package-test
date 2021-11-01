@@ -13,6 +13,6 @@
     "minimum-stability":"dev",
     "require": {},
     "autoload": {
-        "Nesru\\warka\\":"src"
+        "nesru\\warka\\":"src"
     }
 }
