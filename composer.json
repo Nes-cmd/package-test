@@ -16,6 +16,10 @@
         "psr-4":{
            "nesru\\warka\\":"src" 
         }
-        
+    },
+    "extra":{
+        "laravel":{
+            "providers": "nesru\\warka\\warkaServiceProvider"
+        }
     }
 }
