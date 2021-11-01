@@ -13,6 +13,9 @@
     "minimum-stability":"dev",
     "require": {},
     "autoload": {
-        "nesru\\warka\\":"src"
+        "psr-4":{
+           "nesru\\warka\\":"src" 
+        }
+        
     }
 }
