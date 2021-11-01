@@ -1,5 +1,5 @@
 {
-    "name": "Nesru/warka",
+    "name": "nesru/warka",
     "description": "This package will send email to admin if the form is submitted",
     "type":"library",
     "license":"MIT",
